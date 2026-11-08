@@ -2,7 +2,7 @@
 
 Currently: Founding Engineer at a stealth startup.
 
-I spent three years at Google working on job scheduling and resource management infrastructure for an internal workflow engine. Before that, two years at Samsung R&D, mostly building apps for smart fridges (lol).
+I spent three years at Google working on job scheduling and resource management infrastructure for an internal workflow engine. Before that, two years at Samsung R&D, mostly building apps for smart fridges (lol). Prior to that, I did my master's in CS from Columbia, and bachelor's in CS from IIT Bombay.
 
 These days I mess around with local models a lot.
 
