@@ -13,4 +13,4 @@ These days I mess around with local models a lot.
 
 [surajgeddam.com](https://surajgeddam.com) · [LinkedIn](https://linkedin.com/in/surajgeddam)
 
-<sub>My profile picture is from when I used to need glasses. I've since had LASIK.</sub>
+<sub>My profile picture is from when I used to need glasses. I've since had LASIK done, lol.</sub>
